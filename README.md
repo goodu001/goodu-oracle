@@ -1,1 +1,4 @@
 # goodu-oracle
+
+
+hi 
