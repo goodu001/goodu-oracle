@@ -1,5 +1,5 @@
 # goodu-oracle
 
 
-hi /n
+hi
 hello world
