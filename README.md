@@ -1,5 +1,4 @@
 # goodu-oracle
 
 
-- hi
-- hello world
+Hello 26 July
